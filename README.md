@@ -1,4 +1,4 @@
-﻿# Antigravity Coding Skill Set
+# Antigravity Coding Skill Set
 
 
 
@@ -50,52 +50,28 @@ trigger exclusions to determine which specialists are actually relevant.
 
 
 
-\## Architecture
-
-
+## Architecture
 
 ```text
-
 Antigravity Coding Skill Set
-
-â”‚
-
-â”œâ”€â”€ Core
-
-â”‚   â””â”€â”€ Professional Coding Core
-
-â”‚
-
-â”œâ”€â”€ Engineering Specialists
-
-â”‚   â”œâ”€â”€ Architecture
-
-â”‚   â”œâ”€â”€ Debugging
-
-â”‚   â”œâ”€â”€ Testing
-
-â”‚   â”œâ”€â”€ Security
-
-â”‚   â”œâ”€â”€ API Contracts
-
-â”‚   â”œâ”€â”€ Data
-
-â”‚   â”œâ”€â”€ Performance
-
-â”‚   â”œâ”€â”€ Concurrency
-
-â”‚   â”œâ”€â”€ Dependencies
-
-â”‚   â”œâ”€â”€ Refactoring
-
-â”‚   â””â”€â”€ Code Review
-
-â”‚
-
-â””â”€â”€ External Specialist Integration
-
-&#x20;   â””â”€â”€ OpenDesign
-
-&#x20;       â””â”€â”€ UI/UX and visual design
-
-
+|
++-- Core
+|   +-- Professional Coding Core
+|
++-- Engineering Specialists
+|   +-- Architecture
+|   +-- Debugging
+|   +-- Testing
+|   +-- Security
+|   +-- API Contracts
+|   +-- Data
+|   +-- Performance
+|   +-- Concurrency
+|   +-- Dependencies
+|   +-- Refactoring
+|   +-- Code Review
+|
++-- External Specialist Integration
+    +-- OpenDesign
+        +-- UI/UX and visual design
+```
